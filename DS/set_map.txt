@@ -1,0 +1,11 @@
+Set: কেবল unique values রাখে, কোনো key নেই, element sorted (set) বা unsorted (unordered_set) হয়।
+
+Map: key-value pairs রাখে, keys unique, values duplicate হতে পারে, key দিয়ে element access করা হয়।
+
+Unordered version গুলো hash table ব্যবহার করে → fast O(1) average operations।
+
+চেইন হিসেবে মনে রাখার জন্য:
+Set = values only, Map = key + value
+
+
+
